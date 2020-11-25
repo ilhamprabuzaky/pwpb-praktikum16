@@ -6,7 +6,7 @@
 <div class="container">
     <div class="row">
         <div class="col-10">
-            <h1 class="my-3">Hello, Users!</h1>
+            <h1 class="my-3">Hello, Kamu!</h1>
             <p>Welcome to our website, please be pleasure.</p>
         </div>
     </div>

@@ -18,8 +18,6 @@ use App\Http\Controllers\SiswaController;
 Route::get('/', [PagesController::class, 'home']);
 Route::get('/about', [PagesController::class, 'about']);
 
-Route::get('/students', [StudentsController::class, 'index']);
-
 /* Current pwpb table task 18 */
 // Route::get('/siswa', [SiswaController::class, 'index']);
 // Route::get('/siswa/create', [SiswaController::class, 'create']); /* Untuk nampilin form tambah data */
